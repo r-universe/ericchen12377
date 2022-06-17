@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BRDT",
+    "oncran": true
+  },
+  {
+    "package": "MSRDT",
+    "oncran": true
+  }
+]
