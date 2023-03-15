@@ -1,10 +1,10 @@
 [
   {
-    "package": "MSRDT",
+    "package": "BRDT",
     "oncran": true
   },
   {
-    "package": "BRDT",
+    "package": "MSRDT",
     "oncran": true
   }
 ]
